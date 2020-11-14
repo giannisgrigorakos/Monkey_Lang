@@ -1,4 +1,4 @@
-.idea/*
-.idea/modules.xml
-.idea/monkey.iml
-.idea/workspace.xml
+.idea
+/.idea/modules.xml
+/.idea/monkey.iml
+/.idea/workspace.xml
